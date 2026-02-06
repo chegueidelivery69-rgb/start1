@@ -1,5 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:restart_tagxi/common/app_colors.dart';
+import 'package:motoboy/common/app_colors.dart';
 
 class ReviewTopBarPainter extends CustomPainter {
   @override

@@ -4,12 +4,12 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/common/common.dart';
-import 'package:restart_tagxi/core/model/user_detail_model.dart';
-import 'package:restart_tagxi/core/network/endpoints.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
-import 'package:restart_tagxi/features/home/application/home_bloc.dart';
-import 'package:restart_tagxi/l10n/app_localizations.dart';
+import 'package:motoboy/common/common.dart';
+import 'package:motoboy/core/model/user_detail_model.dart';
+import 'package:motoboy/core/network/endpoints.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
+import 'package:motoboy/features/home/application/home_bloc.dart';
+import 'package:motoboy/l10n/app_localizations.dart';
 import 'package:url_launcher/url_launcher.dart';
 import '../../../../../../../common/pickup_icon.dart';
 

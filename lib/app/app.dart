@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/features/loading/presentation/loader.dart';
+import 'package:motoboy/features/loading/presentation/loader.dart';
 import '../../../../common/common.dart';
 import '../common/app_constants.dart';
 import '../core/utils/custom_loader.dart';

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/features/account/presentation/pages/history/widget/fare_breakup.dart';
+import 'package:motoboy/features/account/presentation/pages/history/widget/fare_breakup.dart';
 
 import '../../../../../../common/common.dart';
 import '../../../../../../core/utils/custom_text.dart';

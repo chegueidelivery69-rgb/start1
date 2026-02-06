@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:bloc/bloc.dart';
 import 'package:flutter/foundation.dart';
-import 'package:restart_tagxi/common/app_constants.dart';
+import 'package:motoboy/common/app_constants.dart';
 import '../../../common/common.dart';
 import '../../../di/locator.dart';
 import 'usecases/language_usecase.dart';

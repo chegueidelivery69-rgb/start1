@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:restart_tagxi/common/app_arguments.dart';
-import 'package:restart_tagxi/common/app_colors.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
-import 'package:restart_tagxi/features/account/domain/models/ticket_list_model.dart';
-import 'package:restart_tagxi/features/account/presentation/pages/support_ticket/page/view_ticket_page.dart';
-import 'package:restart_tagxi/l10n/app_localizations.dart';
+import 'package:motoboy/common/app_arguments.dart';
+import 'package:motoboy/common/app_colors.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
+import 'package:motoboy/features/account/domain/models/ticket_list_model.dart';
+import 'package:motoboy/features/account/presentation/pages/support_ticket/page/view_ticket_page.dart';
+import 'package:motoboy/l10n/app_localizations.dart';
 
 class TicketCard extends StatelessWidget {
   final Size size;

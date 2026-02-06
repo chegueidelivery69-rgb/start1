@@ -3,14 +3,14 @@ import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:restart_tagxi/common/app_colors.dart';
-import 'package:restart_tagxi/core/utils/custom_button.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
-import 'package:restart_tagxi/core/utils/custom_textfield.dart';
-import 'package:restart_tagxi/core/utils/extensions.dart';
-import 'package:restart_tagxi/features/driverprofile/application/driver_profile_bloc.dart';
-import 'package:restart_tagxi/features/driverprofile/presentation/widgets/image_picker_dialog.dart';
-import 'package:restart_tagxi/l10n/app_localizations.dart';
+import 'package:motoboy/common/app_colors.dart';
+import 'package:motoboy/core/utils/custom_button.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
+import 'package:motoboy/core/utils/custom_textfield.dart';
+import 'package:motoboy/core/utils/extensions.dart';
+import 'package:motoboy/features/driverprofile/application/driver_profile_bloc.dart';
+import 'package:motoboy/features/driverprofile/presentation/widgets/image_picker_dialog.dart';
+import 'package:motoboy/l10n/app_localizations.dart';
 
 class EditDocumentWidget extends StatelessWidget {
   final BuildContext cont;

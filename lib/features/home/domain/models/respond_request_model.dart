@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:restart_tagxi/core/model/user_detail_model.dart';
+import 'package:motoboy/core/model/user_detail_model.dart';
 
 RespondRequestModel userDetailResponseModelFromJson(String str) =>
     RespondRequestModel.fromJson(json.decode(str));

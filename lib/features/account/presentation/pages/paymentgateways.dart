@@ -3,9 +3,9 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
-import 'package:restart_tagxi/common/common.dart';
-import 'package:restart_tagxi/core/utils/custom_button.dart';
-import 'package:restart_tagxi/l10n/app_localizations.dart';
+import 'package:motoboy/common/common.dart';
+import 'package:motoboy/core/utils/custom_button.dart';
+import 'package:motoboy/l10n/app_localizations.dart';
 import '../../../../core/utils/custom_text.dart';
 import '../../application/acc_bloc.dart';
 

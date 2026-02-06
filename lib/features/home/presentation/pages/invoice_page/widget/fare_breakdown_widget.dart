@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
 
 class FareBreakdownWidget extends StatelessWidget {
   final BuildContext cont;

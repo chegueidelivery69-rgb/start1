@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/common/app_colors.dart';
-import 'package:restart_tagxi/core/utils/custom_appbar.dart';
-import 'package:restart_tagxi/core/utils/custom_button.dart';
-import 'package:restart_tagxi/core/utils/custom_loader.dart';
-import 'package:restart_tagxi/core/utils/custom_snack_bar.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
-import 'package:restart_tagxi/core/utils/custom_textfield.dart';
-import 'package:restart_tagxi/features/account/application/acc_bloc.dart';
-import 'package:restart_tagxi/features/home/presentation/pages/invoice_page/widget/fare_breakdown_widget.dart';
-import 'package:restart_tagxi/l10n/app_localizations.dart';
+import 'package:motoboy/common/app_colors.dart';
+import 'package:motoboy/core/utils/custom_appbar.dart';
+import 'package:motoboy/core/utils/custom_button.dart';
+import 'package:motoboy/core/utils/custom_loader.dart';
+import 'package:motoboy/core/utils/custom_snack_bar.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
+import 'package:motoboy/core/utils/custom_textfield.dart';
+import 'package:motoboy/features/account/application/acc_bloc.dart';
+import 'package:motoboy/features/home/presentation/pages/invoice_page/widget/fare_breakdown_widget.dart';
+import 'package:motoboy/l10n/app_localizations.dart';
 
 class ReportsPage extends StatelessWidget {
   static const String routeName = '/reportsPage';

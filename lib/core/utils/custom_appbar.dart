@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:restart_tagxi/common/app_colors.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
+import 'package:motoboy/common/app_colors.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
 
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
   final String title;
@@ -72,8 +72,8 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
 }
 
 // import 'package:flutter/material.dart';
-// import 'package:restart_tagxi/common/app_colors.dart';
-// import 'package:restart_tagxi/core/utils/custom_text.dart';
+// import 'package:motoboy/common/app_colors.dart';
+// import 'package:motoboy/core/utils/custom_text.dart';
 
 // class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
 //   final String title;

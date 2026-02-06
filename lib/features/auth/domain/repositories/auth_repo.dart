@@ -1,5 +1,5 @@
 import 'package:dartz/dartz.dart';
-import 'package:restart_tagxi/core/model/user_detail_model.dart';
+import 'package:motoboy/core/model/user_detail_model.dart';
 
 import '../../../../core/network/network.dart';
 import '../models/register_model.dart';

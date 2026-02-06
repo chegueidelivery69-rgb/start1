@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:restart_tagxi/core/utils/custom_divider.dart';
+import 'package:motoboy/core/utils/custom_divider.dart';
 import 'package:shimmer/shimmer.dart';
 
 class RewardsShimmer extends StatelessWidget {

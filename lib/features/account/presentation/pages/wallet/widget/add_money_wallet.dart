@@ -5,7 +5,7 @@ import '../../../../../../core/model/user_detail_model.dart';
 import '../../../../../../l10n/app_localizations.dart';
 import '../../../../application/acc_bloc.dart';
 import 'payment_gatewaylist_widget.dart';
-import 'package:restart_tagxi/common/common.dart';
+import 'package:motoboy/common/common.dart';
 import '../../../../../../core/utils/custom_button.dart';
 
 class AddMoneyWalletWidget extends StatelessWidget {

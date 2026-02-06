@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/common/common.dart';
-import 'package:restart_tagxi/core/model/user_detail_model.dart';
-import 'package:restart_tagxi/core/utils/custom_button.dart';
-import 'package:restart_tagxi/core/utils/custom_dialoges.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
-import 'package:restart_tagxi/features/driverprofile/presentation/pages/driver_profile_pages.dart';
-import 'package:restart_tagxi/features/home/application/home_bloc.dart';
-import 'package:restart_tagxi/features/home/presentation/pages/home_page/page/home_page.dart';
-import 'package:restart_tagxi/l10n/app_localizations.dart';
+import 'package:motoboy/common/common.dart';
+import 'package:motoboy/core/model/user_detail_model.dart';
+import 'package:motoboy/core/utils/custom_button.dart';
+import 'package:motoboy/core/utils/custom_dialoges.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
+import 'package:motoboy/features/driverprofile/presentation/pages/driver_profile_pages.dart';
+import 'package:motoboy/features/home/application/home_bloc.dart';
+import 'package:motoboy/features/home/presentation/pages/home_page/page/home_page.dart';
+import 'package:motoboy/l10n/app_localizations.dart';
 
 class DiagnosticPage extends StatelessWidget {
   static const String routeName = '/diagnostics';

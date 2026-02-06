@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/common/common.dart';
-import 'package:restart_tagxi/core/utils/custom_appbar.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
-import 'package:restart_tagxi/features/account/presentation/pages/history/page/trip_summary_history.dart';
-import 'package:restart_tagxi/features/account/presentation/pages/history/widget/history_card_shimmer.dart';
-import 'package:restart_tagxi/l10n/app_localizations.dart';
+import 'package:motoboy/common/common.dart';
+import 'package:motoboy/core/utils/custom_appbar.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
+import 'package:motoboy/features/account/presentation/pages/history/page/trip_summary_history.dart';
+import 'package:motoboy/features/account/presentation/pages/history/widget/history_card_shimmer.dart';
+import 'package:motoboy/l10n/app_localizations.dart';
 import '../../../../../../core/utils/custom_loader.dart';
 import '../../../../../auth/presentation/pages/login_page.dart';
 import '../../../../application/acc_bloc.dart';

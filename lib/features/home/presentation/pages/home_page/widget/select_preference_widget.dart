@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/common/app_colors.dart';
-import 'package:restart_tagxi/core/utils/custom_button.dart';
-import 'package:restart_tagxi/features/home/application/home_bloc.dart';
-import 'package:restart_tagxi/l10n/app_localizations.dart';
+import 'package:motoboy/common/app_colors.dart';
+import 'package:motoboy/core/utils/custom_button.dart';
+import 'package:motoboy/features/home/application/home_bloc.dart';
+import 'package:motoboy/l10n/app_localizations.dart';
 import '../../../../../../../core/utils/custom_text.dart';
 
 class SelectPreferenceWidget extends StatefulWidget {

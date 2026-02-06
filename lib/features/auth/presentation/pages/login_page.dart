@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:pin_code_fields/pin_code_fields.dart';
-import 'package:restart_tagxi/core/utils/custom_snack_bar.dart';
+import 'package:motoboy/core/utils/custom_snack_bar.dart';
 
 import '../../../../common/app_arguments.dart';
 import '../../../../common/app_colors.dart';

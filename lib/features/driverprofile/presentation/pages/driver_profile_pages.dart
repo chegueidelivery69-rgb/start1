@@ -1,21 +1,21 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/common/app_arguments.dart';
-import 'package:restart_tagxi/common/app_colors.dart';
-import 'package:restart_tagxi/common/app_images.dart';
-import 'package:restart_tagxi/core/model/user_detail_model.dart';
-import 'package:restart_tagxi/core/utils/custom_header.dart';
-import 'package:restart_tagxi/core/utils/custom_loader.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
-import 'package:restart_tagxi/core/utils/extensions.dart';
-import 'package:restart_tagxi/features/driverprofile/application/driver_profile_bloc.dart';
-import 'package:restart_tagxi/features/driverprofile/presentation/widgets/document_view_widget.dart';
-import 'package:restart_tagxi/features/driverprofile/presentation/widgets/edit_document_widget.dart';
-import 'package:restart_tagxi/features/driverprofile/presentation/widgets/needed_documents_widget.dart';
-import 'package:restart_tagxi/features/driverprofile/presentation/widgets/vehicle_information_widget.dart';
+import 'package:motoboy/common/app_arguments.dart';
+import 'package:motoboy/common/app_colors.dart';
+import 'package:motoboy/common/app_images.dart';
+import 'package:motoboy/core/model/user_detail_model.dart';
+import 'package:motoboy/core/utils/custom_header.dart';
+import 'package:motoboy/core/utils/custom_loader.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
+import 'package:motoboy/core/utils/extensions.dart';
+import 'package:motoboy/features/driverprofile/application/driver_profile_bloc.dart';
+import 'package:motoboy/features/driverprofile/presentation/widgets/document_view_widget.dart';
+import 'package:motoboy/features/driverprofile/presentation/widgets/edit_document_widget.dart';
+import 'package:motoboy/features/driverprofile/presentation/widgets/needed_documents_widget.dart';
+import 'package:motoboy/features/driverprofile/presentation/widgets/vehicle_information_widget.dart';
 
-import 'package:restart_tagxi/features/home/presentation/pages/home_page/page/home_page.dart';
-import 'package:restart_tagxi/l10n/app_localizations.dart';
+import 'package:motoboy/features/home/presentation/pages/home_page/page/home_page.dart';
+import 'package:motoboy/l10n/app_localizations.dart';
 
 import '../../../../core/utils/custom_button.dart';
 import '../widgets/document_declined_widget.dart';

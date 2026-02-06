@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:intl/intl.dart';
-import 'package:restart_tagxi/common/common.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
+import 'package:motoboy/common/common.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
 import '../../../../application/acc_bloc.dart';
 
 class IncentiveDateWidget extends StatelessWidget {

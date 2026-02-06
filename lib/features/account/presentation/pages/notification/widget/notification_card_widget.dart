@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/common/app_colors.dart';
+import 'package:motoboy/common/app_colors.dart';
 
 import '../../../../../../common/app_images.dart';
 import '../../../../../../core/utils/custom_dialoges.dart';

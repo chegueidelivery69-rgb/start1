@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:restart_tagxi/common/app_colors.dart';
+import 'package:motoboy/common/app_colors.dart';
 import '../../../../core/utils/custom_text.dart';
 import '../../../../l10n/app_localizations.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:restart_tagxi/features/account/presentation/pages/levelup/widget/custom_hexagon_clipper.dart';
+import 'package:motoboy/features/account/presentation/pages/levelup/widget/custom_hexagon_clipper.dart';
 import 'package:shimmer/shimmer.dart';
 
 class LevelsGridShimmer extends StatelessWidget {

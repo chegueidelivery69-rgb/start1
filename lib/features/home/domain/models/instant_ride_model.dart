@@ -1,4 +1,4 @@
-import 'package:restart_tagxi/core/model/user_detail_model.dart';
+import 'package:motoboy/core/model/user_detail_model.dart';
 
 class InstantRideModel {
   bool success;

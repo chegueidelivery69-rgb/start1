@@ -4,7 +4,7 @@ import 'package:dio/dio.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/foundation.dart';
 import 'package:geolocator/geolocator.dart';
-import 'package:restart_tagxi/core/model/user_detail_model.dart';
+import 'package:motoboy/core/model/user_detail_model.dart';
 import '../../../../common/local_data.dart';
 import '../../../../core/network/dio_provider_impl.dart';
 import '../../../../core/network/endpoints.dart';

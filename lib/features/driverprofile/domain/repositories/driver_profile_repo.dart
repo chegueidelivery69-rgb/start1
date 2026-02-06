@@ -1,12 +1,12 @@
 import 'package:dartz/dartz.dart';
-import 'package:restart_tagxi/features/driverprofile/domain/models/needed_documents_model.dart';
-import 'package:restart_tagxi/features/driverprofile/domain/models/upload_document_model.dart';
+import 'package:motoboy/features/driverprofile/domain/models/needed_documents_model.dart';
+import 'package:motoboy/features/driverprofile/domain/models/upload_document_model.dart';
 
-import 'package:restart_tagxi/features/driverprofile/domain/models/service_location_model.dart';
-import 'package:restart_tagxi/features/driverprofile/domain/models/vehicle_make_model.dart';
-import 'package:restart_tagxi/features/driverprofile/domain/models/vehicle_model_model.dart';
-import 'package:restart_tagxi/features/driverprofile/domain/models/vehicle_types_model.dart';
-import 'package:restart_tagxi/features/driverprofile/domain/models/vehicle_update_model.dart';
+import 'package:motoboy/features/driverprofile/domain/models/service_location_model.dart';
+import 'package:motoboy/features/driverprofile/domain/models/vehicle_make_model.dart';
+import 'package:motoboy/features/driverprofile/domain/models/vehicle_model_model.dart';
+import 'package:motoboy/features/driverprofile/domain/models/vehicle_types_model.dart';
+import 'package:motoboy/features/driverprofile/domain/models/vehicle_update_model.dart';
 
 import '../../../../core/network/network.dart';
 

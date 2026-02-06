@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/common/app_arguments.dart';
-import 'package:restart_tagxi/core/utils/custom_appbar.dart';
-import 'package:restart_tagxi/features/account/application/acc_bloc.dart';
-import 'package:restart_tagxi/features/account/presentation/pages/support_ticket/widgets/reply_ticket_widget.dart';
-import 'package:restart_tagxi/features/account/presentation/pages/support_ticket/widgets/support_reply_message_list.dart';
-import 'package:restart_tagxi/features/account/presentation/pages/support_ticket/widgets/view_ticket_card.dart';
-import 'package:restart_tagxi/l10n/app_localizations.dart';
+import 'package:motoboy/common/app_arguments.dart';
+import 'package:motoboy/core/utils/custom_appbar.dart';
+import 'package:motoboy/features/account/application/acc_bloc.dart';
+import 'package:motoboy/features/account/presentation/pages/support_ticket/widgets/reply_ticket_widget.dart';
+import 'package:motoboy/features/account/presentation/pages/support_ticket/widgets/support_reply_message_list.dart';
+import 'package:motoboy/features/account/presentation/pages/support_ticket/widgets/view_ticket_card.dart';
+import 'package:motoboy/l10n/app_localizations.dart';
 
 class ViewTicketPage extends StatelessWidget {
   static const String routeName = '/viewTicketPage';

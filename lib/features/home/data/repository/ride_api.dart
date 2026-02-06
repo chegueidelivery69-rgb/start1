@@ -4,7 +4,7 @@ import 'dart:io';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:package_info_plus/package_info_plus.dart';
-import 'package:restart_tagxi/common/app_constants.dart';
+import 'package:motoboy/common/app_constants.dart';
 
 import '../../../../common/common.dart';
 import '../../../../core/network/network.dart';

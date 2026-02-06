@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/core/utils/custom_appbar.dart';
-import 'package:restart_tagxi/features/account/application/acc_bloc.dart';
-import 'package:restart_tagxi/features/account/presentation/pages/settings/page/faq_page.dart';
-import 'package:restart_tagxi/features/account/presentation/pages/settings/page/map_settings.dart';
-import 'package:restart_tagxi/features/language/presentation/page/choose_language_page.dart';
+import 'package:motoboy/core/utils/custom_appbar.dart';
+import 'package:motoboy/features/account/application/acc_bloc.dart';
+import 'package:motoboy/features/account/presentation/pages/settings/page/faq_page.dart';
+import 'package:motoboy/features/account/presentation/pages/settings/page/map_settings.dart';
+import 'package:motoboy/features/language/presentation/page/choose_language_page.dart';
 import '../../../../../../common/common.dart';
 import '../../../../../../core/model/user_detail_model.dart';
 import '../../../../../../core/utils/custom_dialoges.dart';

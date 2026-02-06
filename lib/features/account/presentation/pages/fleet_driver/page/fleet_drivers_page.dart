@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/common/app_colors.dart';
-import 'package:restart_tagxi/common/app_images.dart';
-import 'package:restart_tagxi/core/utils/custom_appbar.dart';
-import 'package:restart_tagxi/core/utils/custom_dialoges.dart';
-import 'package:restart_tagxi/core/utils/custom_loader.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
-import 'package:restart_tagxi/core/utils/extensions.dart';
-import 'package:restart_tagxi/features/account/application/acc_bloc.dart';
-import 'package:restart_tagxi/l10n/app_localizations.dart';
+import 'package:motoboy/common/app_colors.dart';
+import 'package:motoboy/common/app_images.dart';
+import 'package:motoboy/core/utils/custom_appbar.dart';
+import 'package:motoboy/core/utils/custom_dialoges.dart';
+import 'package:motoboy/core/utils/custom_loader.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
+import 'package:motoboy/core/utils/extensions.dart';
+import 'package:motoboy/features/account/application/acc_bloc.dart';
+import 'package:motoboy/l10n/app_localizations.dart';
 
 import '../widget/add_fleet_driver.dart';
 

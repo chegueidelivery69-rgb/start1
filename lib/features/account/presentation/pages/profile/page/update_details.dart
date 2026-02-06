@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/common/app_validators.dart';
-import 'package:restart_tagxi/core/model/user_detail_model.dart';
-import 'package:restart_tagxi/core/utils/custom_appbar.dart';
-import 'package:restart_tagxi/core/utils/custom_snack_bar.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
+import 'package:motoboy/common/app_validators.dart';
+import 'package:motoboy/core/model/user_detail_model.dart';
+import 'package:motoboy/core/utils/custom_appbar.dart';
+import 'package:motoboy/core/utils/custom_snack_bar.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
 import '../../../../../../common/app_arguments.dart';
 import '../../../../../../common/app_colors.dart';
 import '../../../../../../core/utils/custom_button.dart';

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/app/localization.dart';
-import 'package:restart_tagxi/common/app_colors.dart';
-import 'package:restart_tagxi/common/app_images.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
-import 'package:restart_tagxi/features/account/application/acc_bloc.dart';
+import 'package:motoboy/app/localization.dart';
+import 'package:motoboy/common/app_colors.dart';
+import 'package:motoboy/common/app_images.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
+import 'package:motoboy/features/account/application/acc_bloc.dart';
 import '../../../../common/local_data.dart';
 
 class MenuOptions extends StatelessWidget {

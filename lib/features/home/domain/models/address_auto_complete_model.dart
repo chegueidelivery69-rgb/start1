@@ -1,4 +1,4 @@
-import 'package:restart_tagxi/common/app_constants.dart';
+import 'package:motoboy/common/app_constants.dart';
 
 class AddressAutoCompleteModel {
   bool success;

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/common/app_images.dart';
+import 'package:motoboy/common/app_images.dart';
 
 import '../../../../../../../common/pickup_icon.dart';
 import '../../../../../../../core/model/user_detail_model.dart';

@@ -1,10 +1,10 @@
 import 'package:dartz/dartz.dart';
-import 'package:restart_tagxi/core/model/user_detail_model.dart';
-import 'package:restart_tagxi/features/home/domain/models/diagnostic_otification_model.dart';
-import 'package:restart_tagxi/features/home/domain/models/get_preferences_model.dart';
-import 'package:restart_tagxi/features/home/domain/models/online_offline_model.dart';
-import 'package:restart_tagxi/features/home/domain/models/price_per_distance_model.dart';
-import 'package:restart_tagxi/features/home/domain/models/update_preference_model.dart';
+import 'package:motoboy/core/model/user_detail_model.dart';
+import 'package:motoboy/features/home/domain/models/diagnostic_otification_model.dart';
+import 'package:motoboy/features/home/domain/models/get_preferences_model.dart';
+import 'package:motoboy/features/home/domain/models/online_offline_model.dart';
+import 'package:motoboy/features/home/domain/models/price_per_distance_model.dart';
+import 'package:motoboy/features/home/domain/models/update_preference_model.dart';
 import '../../../../core/network/network.dart';
 import '../../../driverprofile/domain/models/vehicle_types_model.dart';
 import '../../domain/repositories/home_repo.dart';

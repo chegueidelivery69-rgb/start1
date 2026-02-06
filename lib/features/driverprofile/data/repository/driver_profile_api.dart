@@ -2,7 +2,7 @@ import 'package:dio/dio.dart';
 
 import '../../../../common/common.dart';
 import '../../../../core/network/network.dart';
-import 'package:restart_tagxi/core/model/user_detail_model.dart';
+import 'package:motoboy/core/model/user_detail_model.dart';
 
 class DriverProfileApi {
   //Get service Location

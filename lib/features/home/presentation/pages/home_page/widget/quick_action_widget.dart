@@ -2,8 +2,8 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/features/home/presentation/pages/home_page/page/diagnostic_page.dart';
-import 'package:restart_tagxi/features/home/presentation/pages/home_page/widget/select_preference_widget.dart';
+import 'package:motoboy/features/home/presentation/pages/home_page/page/diagnostic_page.dart';
+import 'package:motoboy/features/home/presentation/pages/home_page/widget/select_preference_widget.dart';
 
 import '../../../../../../common/app_constants.dart';
 import '../../../../../../common/common.dart';

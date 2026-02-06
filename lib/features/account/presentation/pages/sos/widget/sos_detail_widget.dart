@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/features/account/application/acc_bloc.dart';
-import 'package:restart_tagxi/features/account/domain/models/contact_model.dart';
+import 'package:motoboy/features/account/application/acc_bloc.dart';
+import 'package:motoboy/features/account/domain/models/contact_model.dart';
 
 import '../../../../../../common/common.dart';
 import '../../../../../../core/model/user_detail_model.dart';

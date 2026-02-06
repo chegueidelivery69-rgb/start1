@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/core/model/user_detail_model.dart';
-import 'package:restart_tagxi/core/utils/custom_appbar.dart';
-import 'package:restart_tagxi/core/utils/custom_button.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
-import 'package:restart_tagxi/core/utils/custom_textfield.dart';
-import 'package:restart_tagxi/l10n/app_localizations.dart';
+import 'package:motoboy/core/model/user_detail_model.dart';
+import 'package:motoboy/core/utils/custom_appbar.dart';
+import 'package:motoboy/core/utils/custom_button.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
+import 'package:motoboy/core/utils/custom_textfield.dart';
+import 'package:motoboy/l10n/app_localizations.dart';
 import '../../../../../../common/app_colors.dart';
 import '../../../../application/acc_bloc.dart';
 import '../../../../../auth/application/auth_bloc.dart';

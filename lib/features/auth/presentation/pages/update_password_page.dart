@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/features/auth/presentation/pages/login_page.dart';
+import 'package:motoboy/features/auth/presentation/pages/login_page.dart';
 
 import '../../../../common/common.dart';
 import '../../../../core/utils/custom_appbar.dart';

@@ -1,7 +1,7 @@
 import 'package:dartz/dartz.dart';
 import 'package:dio/dio.dart';
-import 'package:restart_tagxi/common/common.dart';
-import 'package:restart_tagxi/core/model/user_detail_model.dart';
+import 'package:motoboy/common/common.dart';
+import 'package:motoboy/core/model/user_detail_model.dart';
 import '../../../../core/network/exceptions.dart';
 import '../../../../core/network/network.dart';
 import '../../domain/models/common_module_model.dart';

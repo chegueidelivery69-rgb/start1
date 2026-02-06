@@ -1,8 +1,8 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/core/utils/custom_appbar.dart';
-import 'package:restart_tagxi/l10n/app_localizations.dart';
+import 'package:motoboy/core/utils/custom_appbar.dart';
+import 'package:motoboy/l10n/app_localizations.dart';
 
 import '../../../../../../common/common.dart';
 import '../../../../../../core/model/user_detail_model.dart';

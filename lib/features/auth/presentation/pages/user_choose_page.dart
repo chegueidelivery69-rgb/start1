@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/common/app_arguments.dart';
-import 'package:restart_tagxi/common/app_colors.dart';
-import 'package:restart_tagxi/common/app_images.dart';
-import 'package:restart_tagxi/core/utils/custom_background.dart';
-import 'package:restart_tagxi/core/utils/custom_button.dart';
-import 'package:restart_tagxi/core/utils/custom_snack_bar.dart';
-import 'package:restart_tagxi/core/utils/custom_text.dart';
-import 'package:restart_tagxi/features/auth/application/auth_bloc.dart';
-import 'package:restart_tagxi/l10n/app_localizations.dart';
+import 'package:motoboy/common/app_arguments.dart';
+import 'package:motoboy/common/app_colors.dart';
+import 'package:motoboy/common/app_images.dart';
+import 'package:motoboy/core/utils/custom_background.dart';
+import 'package:motoboy/core/utils/custom_button.dart';
+import 'package:motoboy/core/utils/custom_snack_bar.dart';
+import 'package:motoboy/core/utils/custom_text.dart';
+import 'package:motoboy/features/auth/application/auth_bloc.dart';
+import 'package:motoboy/l10n/app_localizations.dart';
 
 import '../../../landing/presentation/page/landing_page.dart';
 

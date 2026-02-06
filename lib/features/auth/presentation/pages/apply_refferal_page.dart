@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:restart_tagxi/common/common.dart';
-import 'package:restart_tagxi/core/utils/custom_appbar.dart';
-import 'package:restart_tagxi/features/driverprofile/presentation/pages/driver_profile_pages.dart';
+import 'package:motoboy/common/common.dart';
+import 'package:motoboy/core/utils/custom_appbar.dart';
+import 'package:motoboy/features/driverprofile/presentation/pages/driver_profile_pages.dart';
 import '../../../../core/utils/custom_button.dart';
 import '../../../../core/utils/custom_loader.dart';
 import '../../../../core/utils/custom_text.dart';

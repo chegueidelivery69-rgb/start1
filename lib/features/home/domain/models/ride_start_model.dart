@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:restart_tagxi/core/model/user_detail_model.dart';
+import 'package:motoboy/core/model/user_detail_model.dart';
 
 RideStartModel userDetailResponseModelFromJson(String str) =>
     RideStartModel.fromJson(json.decode(str));
